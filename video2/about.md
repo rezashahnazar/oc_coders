@@ -16,10 +16,11 @@ instructions.md اسم فایل حاوی سوالات و چالش ها به صو
 ***
 
 ## در این جلسه چه چیزایی یاد میگیریم؟
-> - lists
+> - python lists
 > - index operators
 > - for loop & iteration
 > - using if in for loop
 > - range , len , sum, round
 > - counter variable 
 > - +=  ,  =  ,  == 
+> - export notebooks to PDF and download
