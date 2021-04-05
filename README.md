@@ -13,7 +13,7 @@
 
 ***
 
-## Titles:
+## Video titles:
 
 0. A trip to the DataScience world.
 1. Code the Fibonacci, now!
@@ -23,4 +23,4 @@
 
 ## How to find codes:
 
-Codes, documentation and other related stuff for each video are located in a separate directory (folder) named by it's related number which could be found in the [Titles section](#Titles) above. Go to the folder and enjoy!
+Codes, documentation and other related stuff for each video are located in a separate directory (folder) named by it's related number -which could be found in the [Titles section](#Video titles) above. Go to the folder and enjoy!
