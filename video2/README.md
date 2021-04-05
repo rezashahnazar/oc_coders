@@ -23,7 +23,7 @@
 > - for loop
 > - list iteration directly vs by index operator range
 > - using conditions (if,else) in for loop
-> - range , len , sum, round
+> - range , len , sum , round
 > - counter variable 
 > - +=  ,  =  ,  == 
 > - export notebooks to PDF and download
