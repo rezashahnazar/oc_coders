@@ -8,7 +8,7 @@
 ## links:
 * You can find the full video playlist on "Occasional Coders" YouTube channel: [YouTube Link](https://www.youtube.com/channel/UCfLqx41dF8w00LVKZGM9NRQ)
 * Telegram channel for further communications: [Telegram Link](https://t.me/oc_coders)
-* Instagram profile for further communications: [Instagram Link](instagram.com/oc_coders)
+* Instagram profile for further communications: [Instagram Link](http://instagram.com/oc_coders)
 
 
 ***
