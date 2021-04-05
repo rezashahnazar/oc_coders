@@ -27,4 +27,4 @@ Codes, documentation and other related stuff for each video are located in a sep
 
 ***
 
-**logo by: Hasan Alizade**
+**logo design: Hasan Alizade**
