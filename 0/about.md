@@ -3,10 +3,10 @@
 
 ***
 
-###سایت هایی که تو این ویدیو بررسی شدن:
+### سایت هایی که تو این ویدیو بررسی شدن:
 * kaggle.com
 * quera.ir
 
 ***
 
-Music: "It's April" by "Michael Ramir C." - from mixkit.co
+**Music: "It's April" by "Michael Ramir C." - from mixkit.co**
