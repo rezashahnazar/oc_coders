@@ -6,10 +6,9 @@
 ***
 
 ## links:
-You can find the full video playlist on "Occasional Coders" YouTube channel: [YouTube Link](https://youtube.com/) 
-
-Telegram channel for further communications: [Telegram Link](https://t.me/oc_coders) 
-Instagram profile for further communications: [Instagram Link](instagram.com/oc_coders)
+You can find the full video playlist on "Occasional Coders" YouTube channel: [YouTube Link](https://youtube.com/).
+Telegram channel for further communications: [Telegram Link](https://t.me/oc_coders).
+Instagram profile for further communications: [Instagram Link](instagram.com/oc_coders).
 
 ***
 
