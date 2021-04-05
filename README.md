@@ -15,6 +15,12 @@
 
 ## Titles:
 
-0. "A trip to datascience world."
-1. "code the Fibonacci, now!"
-2. "start the list form 0, not 1!"
+0. A trip to the DataScience world.
+1. Code the Fibonacci, now!
+2. Start the list with 0, not 1!
+
+***
+
+## How to find codes:
+
+Codes, documentation and other related stuff for each video are located in a separate directory (folder) named by it's related number which could be found in the [Titles section](#Titles) above. Go to the folder and enjoy!
