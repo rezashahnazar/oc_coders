@@ -17,7 +17,7 @@ instructions.md اسم فایل حاوی سوالات و چالش ها به صو
 
 ## در این جلسه چه چیزایی یاد میگیریم؟
 > - python lists
-> - index operators
+> - index operators[] & .append()
 > - for loop
 > - list iteration directly vs by index operator range
 > - using conditions (if,else) in for loop
