@@ -1,5 +1,5 @@
 # Occasional Coders
-![OC-Primary-White - smaller](https://user-images.githubusercontent.com/62722056/113588051-e8a4f780-9644-11eb-948a-1cf9da2a9653.png) 
+![OC-Primary-White - smallest](https://user-images.githubusercontent.com/62722056/113588260-2a35a280-9645-11eb-933b-c4be1bf7d3b1.png)
 
 "Occasional Coders" is a Video (YouTube) channel with a playlist for Data-Science enthusiasts to learn coding data-science projects with python. Each video is a based on a specific project and here, you can find their codes and other details.
 
