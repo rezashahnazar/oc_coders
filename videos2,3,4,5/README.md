@@ -24,5 +24,5 @@
 > - list iteration directly vs by index operator range
 > - using conditions (if,else) in for loop
 > - range , len , sum , round
-> - =  verss  == 
+> - =  versus  == 
 > - download notebooks & share as PDF
