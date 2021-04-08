@@ -17,7 +17,7 @@
 
 0. A trip to the DataScience world.
 1. Code the Fibonacci, now!
-2. Lilly, the coder: List starts with 0, not 1
+2. Lilly, the coder: Start with 0, not 1
 3. Lilly, the coder: For loop
 4. Lilly, the coder: Index iteration
 5. Lilly, the coder: Avoid Hard-coding!
